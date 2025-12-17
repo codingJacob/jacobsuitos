@@ -1371,7 +1371,7 @@ footer .logo::after {
 
 /* Add these to your existing preview styles */
 #preview-5 {
-    background-image: url('https://api.microlink.io/?url=YOUR_PROJECT5_URL&screenshot=true&meta=false&embed=screenshot.url');
+    background-image: url('https://api.microlink.io/?url=https://novacaptureai.vercel.app/&screenshot=true&meta=false&embed=screenshot.url');
     background-color: #2a1a3c;
 }
 
@@ -1379,3 +1379,4 @@ footer .logo::after {
     background-image: url('https://api.microlink.io/?url=YOUR_PROJECT6_URL&screenshot=true&meta=false&embed=screenshot.url');
     background-color: #1a3c2a;
 }
+
