@@ -1366,4 +1366,16 @@ footer .logo::after {
 .about-img-placeholder:hover img {
     transform: scale(1.05);
     filter: brightness(1.1);
+
+}
+
+/* Add these to your existing preview styles */
+#preview-5 {
+    background-image: url('https://api.microlink.io/?url=YOUR_PROJECT5_URL&screenshot=true&meta=false&embed=screenshot.url');
+    background-color: #2a1a3c;
+}
+
+#preview-6 {
+    background-image: url('https://api.microlink.io/?url=YOUR_PROJECT6_URL&screenshot=true&meta=false&embed=screenshot.url');
+    background-color: #1a3c2a;
 }
