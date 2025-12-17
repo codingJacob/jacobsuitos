@@ -158,6 +158,11 @@ const createWebsitePreviews = () => {
             url: 'https://landing-pro-pi.vercel.app/',
             fallbackColor: '#1a1a2e'
         }
+        {
+        id: 'preview-5',
+        url: 'https://your-project5-url.com',
+        fallbackColor: '#2a1a3c'
+    },
     ];
     
     // Alternative screenshot services if Microlink doesn't work
@@ -337,4 +342,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             });
         }
     });
+
 });
